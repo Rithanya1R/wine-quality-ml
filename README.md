@@ -82,10 +82,11 @@ Prediction also includes **class probabilities** from:
 ---
 
 ##  Author
-**Rithanya R**  
+**R Rithanya **  
  ravirithanya1@gmail.com  
 *Wine Quality Prediction Project | Machine Learning Enthusiast*  
 
 If this project added value to your learning or work, I’d really appreciate your support by giving it a ⭐ on GitHub.
 
 ---
+
